@@ -37,7 +37,7 @@
     "uniqCompNum": 21,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/bodyworks-favicon.png",
+    "favicon": "@PROJECT_PATH@/assets/images/bodyworks-favicon-1.png",
     "noImageResize": "true",
     "google-analytics": "",
     "siteUrl": "undefined",
