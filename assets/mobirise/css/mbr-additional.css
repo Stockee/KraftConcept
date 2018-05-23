@@ -1532,6 +1532,85 @@ body {
     font-size: 4.25rem;
   }
 }
+.cid-qSRIVEgaSX {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color: #f9f9f9;
+}
+.cid-qSRIVEgaSX .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qSRIVEgaSX .container-table {
+  margin: 0 auto;
+}
+.cid-qSRIVEgaSX .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-qSRIVEgaSX .dataTables_wrapper {
+  display: block;
+}
+.cid-qSRIVEgaSX .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-qSRIVEgaSX .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-qSRIVEgaSX table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-qSRIVEgaSX table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-qSRIVEgaSX table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-qSRIVEgaSX table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-qSRIVEgaSX table.table {
+  background: #ffffff;
+}
+.cid-qSRIVEgaSX .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-qSRIVEgaSX .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-qSRIVEgaSX .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-qSRIVEgaSX .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-qSRIVEgaSX .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-qSRIVEgaSX .dataTables_filter {
+    text-align: center;
+  }
+  .cid-qSRIVEgaSX .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
 .cid-qSk0R1AMv9 {
   padding-top: 90px;
   padding-bottom: 0px;
@@ -1684,11 +1763,111 @@ body {
 .cid-qSN8anDpaO .team-item .item-caption {
   background: #efefef;
 }
-.cid-qSkwpkw0lV {
-  padding-top: 15px;
-  padding-bottom: 15px;
+.cid-qSRNsb9SUb {
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #232323;
 }
-.cid-qSkwpkw0lV .media-container-row .mbr-text {
+@media (max-width: 767px) {
+  .cid-qSRNsb9SUb .content {
+    text-align: center;
+  }
+  .cid-qSRNsb9SUb .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+.cid-qSRNsb9SUb .img-logo img {
+  height: 6rem;
+}
+.cid-qSRNsb9SUb [type="email"] {
+  font-size: .75rem;
+  margin-bottom: 5px;
+  text-align: center;
+  min-width: 150px;
+}
+.cid-qSRNsb9SUb .input-group-btn {
+  display: inline-block;
+}
+.cid-qSRNsb9SUb .input-group-btn a.btn {
+  margin: 0 !important;
+}
+.cid-qSRNsb9SUb .input-group {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-qSRNsb9SUb [type="submit"] {
+  padding: .75rem 1.5625rem !important;
+  margin-left: .625rem;
+  text-transform: none;
+}
+.cid-qSRNsb9SUb .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.cid-qSRNsb9SUb .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-qSRNsb9SUb .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qSRNsb9SUb .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qSRNsb9SUb .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qSRNsb9SUb .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qSRNsb9SUb .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-qSRNsb9SUb .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-qSRNsb9SUb form .input-group input.form-control,
+.cid-qSRNsb9SUb form .input-group-btn .btn {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+.cid-qSRNsb9SUb .form-inline {
+  justify-content: center;
+}
+.cid-qSRNsb9SUb .form-group {
+  margin: 0;
+}
+@media (max-width: 767px) {
+  .cid-qSRNsb9SUb .foot-logo {
+    text-align: center !important;
+  }
+  .cid-qSRNsb9SUb .foot-title {
+    text-align: center !important;
+  }
+  .cid-qSRNsb9SUb .mbr-text {
+    text-align: center !important;
+  }
+}
+.cid-qSRNsb9SUb .copyright > p {
   color: #767676;
+}
+.cid-qSRNsb9SUb .foot-text {
+  color: #efefef;
 }
