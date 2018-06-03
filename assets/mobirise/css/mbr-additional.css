@@ -1937,84 +1937,44 @@ body {
     font-size: 4.25rem;
   }
 }
-.cid-qSRIVEgaSX {
+.cid-qTVpza2g6t {
   padding-top: 75px;
   padding-bottom: 75px;
   background-color: #f9f9f9;
 }
-.cid-qSRIVEgaSX .mbr-section-subtitle {
-  color: #767676;
+.cid-qTVpza2g6t h2 {
+  text-align: center;
 }
-.cid-qSRIVEgaSX .container-table {
-  margin: 0 auto;
+.cid-qTVpza2g6t h4 {
+  text-align: center;
+  z-index: 1;
+  color: #ffffff;
 }
-.cid-qSRIVEgaSX .scroll {
-  overflow-x: auto;
-  padding: 0;
-}
-.cid-qSRIVEgaSX .dataTables_wrapper {
-  display: block;
-}
-.cid-qSRIVEgaSX .dataTables_wrapper .search {
-  margin-bottom: .5rem;
-}
-.cid-qSRIVEgaSX .dataTables_wrapper .table {
-  overflow-x: auto;
-}
-.cid-qSRIVEgaSX table {
-  width: 100% !important;
-  margin-top: 6px;
-  border: 1px solid #cccccc;
+.cid-qTVpza2g6t p {
+  z-index: 1;
   margin-bottom: 0;
+  color: #ffffff;
 }
-.cid-qSRIVEgaSX table th {
-  border-top: none;
-  transition: all .2s;
-  border-bottom: none;
+.cid-qTVpza2g6t .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
 }
-.cid-qSRIVEgaSX table th:hover {
-  background: #cccccc;
-  color: #000000;
+.cid-qTVpza2g6t .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
 }
-.cid-qSRIVEgaSX table td {
-  border-top: 1px solid #cccccc;
-}
-.cid-qSRIVEgaSX table.table {
-  background: #ffffff;
-}
-.cid-qSRIVEgaSX .dataTables_filter {
-  text-align: right;
-  margin-bottom: .5rem;
-}
-.cid-qSRIVEgaSX .dataTables_filter label {
-  display: inline;
-  white-space: normal !important;
-}
-.cid-qSRIVEgaSX .dataTables_filter input {
-  display: inline;
+.cid-qTVpza2g6t .card-img img {
+  z-index: -1;
+  min-height: 100%;
+  min-width: 100%;
   width: auto;
-  margin-left: .5rem;
-  border-radius: 100px;
-  padding-left: 1rem;
-}
-.cid-qSRIVEgaSX .dataTables_info {
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  white-space: normal !important;
-}
-@media (max-width: 992px) {
-  .cid-qSRIVEgaSX .dataTables_filter {
-    text-align: center;
-  }
-}
-@media (max-width: 350px) {
-  .cid-qSRIVEgaSX .dataTables_filter {
-    text-align: center;
-  }
-  .cid-qSRIVEgaSX .dataTables_filter input {
-    width: 100% !important;
-    margin-left: 0 !important;
-  }
+  max-width: 600px;
 }
 .cid-qSk0R1AMv9 {
   padding-top: 90px;
