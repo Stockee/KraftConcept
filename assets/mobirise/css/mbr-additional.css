@@ -1373,13 +1373,13 @@ body {
   display: none;
 }
 .cid-qTTTyaasUl .navbar {
-  background: #ffffff;
+  background: #f9f9f9;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qTTTyaasUl .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #f9f9f9;
 }
 .cid-qTTTyaasUl a {
   font-style: normal;
@@ -1463,7 +1463,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qTTTyaasUl .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #f9f9f9;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1813,7 +1813,7 @@ body {
 .cid-qSkukFTtDX {
   padding-top: 90px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #f9f9f9;
 }
 @media (min-width: 992px) {
   .cid-qSkukFTtDX .mbr-figure {
@@ -1842,10 +1842,10 @@ body {
 .cid-qSkjBj4cm9 {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #f9f9f9;
 }
 .cid-qSkjBj4cm9 .card-box {
-  background-color: #ffffff;
+  background-color: #f9f9f9;
   padding: 2rem;
 }
 .cid-qSkjBj4cm9 h4 {
